@@ -5,7 +5,9 @@ Das ist ein Bukkit FlySystem
 Prefix ist in der Config im Ordner einstellbar :)
 
 
-Permissions
+
+# Permissions
+
 flysystem.fly.self = kann man sich selber mit /fly fly geben/entfernen
 
 flysystem.fly.others = kann man anderen Spielern mit /fly <name> Fly geben/entfernen 
