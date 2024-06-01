@@ -6,6 +6,7 @@ Prefix ist in der Config im Ordner einstellbar :)
 
 # Version
 Official Version Minecraft: 1.16.5
+
 Tested Minecraft versions: 1.16 - 1.17
 
 # Permissions
