@@ -1,0 +1,18 @@
+name: FlyPlugin
+version: 1.0
+main: de.flo.flyplugin.FlyPlugin
+description: Ein Plugin zum Verwalten des Flugmodus und der Fluggeschwindigkeit in Minecraft.
+api-version: 1.16
+author: EinfachFloTV
+commands:
+  fly:
+    description: Schaltet den Flugmodus ein oder aus.
+    usage: /fly [Spieler]
+  flyspeed:
+      description: Setzt die Fluggeschwindigkeit.
+      usage: /flyspeed <Geschwindigkeit> [Spieler]
+
+permissions:
+  flysystem.*:
+    description: Erlaubt die Nutzung aller Flugbefehle.
+    default: op
