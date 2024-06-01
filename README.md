@@ -1,6 +1,6 @@
 # FlyPluginMC
 
-Das ist ein Bukkit FlySystem
+Das ist ein Bukkit/Paper FlySystem
 
 Prefix ist in der Config im Ordner einstellbar :)
 
