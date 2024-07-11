@@ -1,0 +1,17 @@
+specVersion: 1
+type: plugin
+name: Fly Plugin
+authors:
+  - aro_lg
+  - einfachflotv
+supportedGameVersions: ^1.16
+category: misc
+introduction: Ein simples Plugin, um zu Fliegen
+description: |
+  # Überblick
+  Ein Pluing wo du /fly nutzen kannst und /flyspeed nutzen kannst
+  # Befehle:
+  - /fly
+  - /flyspeed
+ 
+icon: https://github.com/HyperGaming99/FlyPluginMC/blob/main/117066.jpg
